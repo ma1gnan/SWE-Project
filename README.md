@@ -1,3 +1,8 @@
+# SWE-Project
+Group Software Engineering Project:
+
+Shamonte Knight, Deborah Maignan, Ali Al Anbari, Ethan Fountain, Suryaprakash Murugavvel
+
 <div align="center">
 
 ```
